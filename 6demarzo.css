@@ -17,8 +17,8 @@ font-size: 25px;
 }
 img{
 border-style: solid;
-border-width: 25px;
-border-color: pink green blue red;
+border-width: 10px;
+border-color: #ff4500 #c71585 #008080;
 border-radius: 80px;
 
 }
